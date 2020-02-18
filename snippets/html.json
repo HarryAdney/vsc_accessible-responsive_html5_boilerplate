@@ -3,16 +3,16 @@
 		"prefix": "html5-boilerplate",
 		"body" : [
 			"<!DOCTYPE html>",
-			"<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->",
-			"<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->",
-			"<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->",
-			"<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->",
+			"<!--[if lt IE 7]>      <html lang="en-GB" class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->",
+			"<!--[if IE 7]>         <html lang="en-GB" class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->",
+			"<!--[if IE 8]>         <html lang="en-GB" class=\"no-js lt-ie9\"> <![endif]-->",
+			"<!--[if gt IE 8]><!--> <html lang="en-GB" class=\"no-js\"> <!--<![endif]-->",
 			"\t<head>",
 			"\t\t<meta charset=\"utf-8\">",
 			"\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
-			"\t\t<title>$1</title>",
+			"\t\t<title>Accessible, responsive HTML5 boilerplate.</title>",
 			"\t\t<meta name=\"description\" content=\"\">",
-			"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+			"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=yes\">",
 			"\t\t<link rel=\"stylesheet\" href=\"$2\">",
     		"\t</head>",
     		"\t<body>",
@@ -24,6 +24,6 @@
 			"\t</body>",
 			"</html>"
 		],
-		"description": "A very basic HTML5 boiler plate code."
+		"description": "A very basic accessible and responsive HTML5 boiler plate code."
 	}
 }
