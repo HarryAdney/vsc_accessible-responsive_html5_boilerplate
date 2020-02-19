@@ -1,7 +1,7 @@
 # README
 ## Visual Studio Code HTML Boilerplate
  
-This extension provides the standard HTML boilerplate code used in all web applications.
+This extension provides a basic HTML5 boilerplate which aims to be responsive (obvs) and follow accessible guidelines.
 
 # Usage
 Type 'html5-boilerplate' in an HTML file and select the snippet from the auto suggestion dropdown to get the HTML boilerplate.
@@ -27,4 +27,5 @@ Type 'html5-boilerplate' in an HTML file and select the snippet from the auto su
 If you have any issues report them at [Issues](https://github.com/sidthesloth92/vsc_html5_boilerplate/issues)
 
 # Source
+[Github] (https://github.com/HarryAdney/vsc_accessible-responsive_html5_boilerplate) based on the top work by sidthesloth.
 [Github](https://github.com/sidthesloth92/vsc_html5_boilerplate)
